@@ -1,4 +1,3 @@
-# trabalho_codigo_limpo
 # Trabalho - Código Limpo
 
 ## 📚 Disciplina
