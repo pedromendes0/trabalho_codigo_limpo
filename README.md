@@ -1,16 +1,16 @@
 # Trabalho - Código Limpo
 
-## 📚 Disciplina
+## Disciplina
 
 **Manutenção de Software**
 
-## 🎯 Objetivo
+## Objetivo
 
 Este projeto foi desenvolvido como parte da disciplina de **Manutenção de Software**, com o objetivo de aplicar princípios de **Código Limpo (Clean Code)** em uma aplicação já existente.
 
 A proposta é melhorar a legibilidade, organização e compreensão do código, tornando sua manutenção mais simples e facilitando o entendimento da lógica do programa.
 
-## 📝 Sobre o trabalho
+## Sobre o trabalho
 
 Para a realização do trabalho, foi escolhida uma aplicação previamente desenvolvida. A partir dela, foram analisados e aplicados os princípios apresentados no Capítulo 2 do livro **Fundamentos de Manutenção de Software**.
 
@@ -25,14 +25,14 @@ As melhorias foram realizadas considerando as seguintes seis premissas:
 
 O objetivo foi comparar o código-fonte original com a versão modificada, identificando as melhorias realizadas em cada uma das premissas.
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 * Linguagem: **[coloque a linguagem utilizada]**
 * **[framework/biblioteca, se houver]**
 * **[banco de dados, se houver]**
 * Git e GitHub
 
-## 📂 Estrutura do projeto
+## Estrutura do projeto
 
 ```text
 ├── original/
@@ -49,7 +49,7 @@ O objetivo foi comparar o código-fonte original com a versão modificada, ident
 
 > A estrutura acima pode ser adaptada de acordo com a organização real do projeto.
 
-## 🔎 Melhorias realizadas
+## Melhorias realizadas
 
 ### 1. Verificadores de estilo e formatadores
 
